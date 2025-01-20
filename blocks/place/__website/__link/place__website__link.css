@@ -1,0 +1,12 @@
+.place__website__link {
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    font-weight: 22px;
+    text-decoration: underline;
+}
+
+.place__website__link:hover {
+    color: #e5e5e5;
+}
+
